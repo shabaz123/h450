@@ -534,7 +534,7 @@
 
   (footprint "User Global Library:HOLE_BARE_3.1mm" (layer "F.Cu")
     (tstamp 690545b3-2b58-4bcf-99a6-f99f987b86c6)
-    (at 70 59.7)
+    (at 67.5 58.2)
     (property "Sheetfile" "motor-board-project.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Mounting Hole without connection")
@@ -624,7 +624,7 @@
 
   (footprint "User Global Library:HOLE_BARE_3.1mm" (layer "F.Cu")
     (tstamp 77964561-56c4-4154-aa95-54cd85216950)
-    (at 115 105)
+    (at 118.3 101.3)
     (property "Sheetfile" "motor-board-project.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Mounting Hole without connection")
@@ -1130,7 +1130,7 @@
 
   (footprint "User Global Library:HOLE_BARE_3.1mm" (layer "F.Cu")
     (tstamp f69514a9-fece-4e7d-ace9-fe30e025f52e)
-    (at 120 105)
+    (at 118.3 73.4)
     (property "Sheetfile" "motor-board-project.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Mounting Hole without connection")
